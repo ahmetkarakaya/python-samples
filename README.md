@@ -2,6 +2,8 @@
 
 Hello.py
 
+The disassembled code will be displayed with line numbers. Each line represents a bytecode instruction and tells the interpreter what to do. For example, in the given disassembled code:
+
 `def myfunc():    print("ahmet")`
 
 Bytecode
