@@ -1,5 +1,7 @@
 # python-samples
 
+# Bytecode analysis
+
 Hello.py
 
 The disassembled code will be displayed with line numbers. Each line represents a bytecode instruction and tells the interpreter what to do. For example, in the given disassembled code:
@@ -24,3 +26,5 @@ Bytecode
 | LOAD_COST     | Pushes "co_consts[/consti/]" onto the stac                                                                                                                                                                                                                                                                                                                                                                                                         |             |
 
 For all opcodes [link](https://unpyc.sourceforge.net/Opcodes.html)
+
+* [Demystifying Python Bytecode: A Guide to Understanding and Analyzing Code Execution](https://medium.com/@noransaber685/demystifying-python-bytecode-a-guide-to-understanding-and-analyzing-code-execution-6a163cb83bd1)
